@@ -15,11 +15,11 @@ https://github.com/davidjohnnn/python_workshop/tree/master/lecture_slides
 
 Note:
 
-Day1 (morning): Basic Python	
-Day1 (afternoon): Data Preparation	
----------------------------------------------
-Day2 (morning): Visualization & Data Cleansing, Data Cleansing	
-Day2 (Afternoon): Data Analytics1	
----------------------------------------------
-Day3 (Morning): Data Analytics2		
-Day3 (Afternoon): Deep Learning	
+## Day1 (morning): Basic Python	
+## Day1 (afternoon): Data Preparation	
+
+## Day2 (morning): Visualization & Data Cleansing, Data Cleansing	
+## Day2 (Afternoon): Data Analytics1	
+
+## Day3 (Morning): Data Analytics2		
+## Day3 (Afternoon): Deep Learning	
