@@ -35,6 +35,8 @@ https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master
 
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D2-1_VizCln/1_Visualization/2-6_Style_Color.ipynb
 
+-- (Data Cleansing)
+
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D2-1_VizCln/2_DataCleansing/1_PreviewData.ipynb
 
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D2-1_VizCln/2_DataCleansing/2_DataPreparation.ipynb
