@@ -9,6 +9,12 @@ https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-1_Python/2_LinearAlgebra_with_Python-NumPy_2019.ipynb
 
 
+Day 1 - Afternoon Session
+https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/1_DataPrep_2019.ipynb
+
+https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/2_WebScraping_2019.ipynb
+
+
 Slides
 https://github.com/davidjohnnn/python_workshop/tree/master/lecture_slides
 
