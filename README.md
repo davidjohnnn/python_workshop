@@ -134,8 +134,8 @@ Note:
 
 Installation (For Jupyter Notebook)
 
-conda install -c anaconda pydot=1.2.3 -y
-conda install -c anaconda pyparsing=2.2.0 -y
-conda install -c anaconda graphviz -y
+### conda install -c anaconda pydot=1.2.3 -y
+### conda install -c anaconda pyparsing=2.2.0 -y
+### conda install -c anaconda graphviz -y
 
 ————————————————————————————
