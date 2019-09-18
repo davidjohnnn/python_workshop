@@ -138,4 +138,7 @@ Installation (For Jupyter Notebook)
 ### conda install -c anaconda pyparsing=2.2.0 -y
 ### conda install -c anaconda graphviz -y
 
+pip install xxx --trusted-host pypi.python.org
+
+
 ————————————————————————————
