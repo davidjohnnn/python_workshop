@@ -37,7 +37,7 @@ example: scrapy runspider -a first_page=1 -a last_page=100 -o items.csv spider.p
 
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/3_Mounting_Google_Drive_in_Google_Colab.ipynb
 
-# !wget https://github.com/davidjohnnn/python_workshop/raw/master/StudentGrade.csv -O /content/drive/My\ Drive/StudentGrade.csv
+!wget https://github.com/davidjohnnn/python_workshop/raw/master/StudentGrade.csv -O /content/drive/My\ Drive/StudentGrade.csv
 
 ————————————————————————————
 ————————————————————————————
