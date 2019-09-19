@@ -69,6 +69,7 @@ https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master
 
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/Excercise/CarPriceExercise_toStudent.ipynb
 
+## !wget https://github.com/davidjohnnn/python_workshop/raw/master/StudentGrade.csv -O /content/drive/My\ Drive/StudentGrade.csv
 ————————————————————————————
 
 Day 2 - Afternoon Session 
