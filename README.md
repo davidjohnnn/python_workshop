@@ -26,12 +26,16 @@ https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master
 Time Series Scraping:
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/Demo/time_series_scrape/explore.ipynb
 
-example : scrapy runspider -a start_date=2014-01-01 -a end_date=2019-05-31 -o items.csv spider.py
+example: scrapy runspider -a start_date=2014-01-01 -a end_date=2019-05-31 -o items.csv spider.py
 
 News Scraping:
 https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/Demo/news_scrape_and_ie/explore.ipynb
 
-example : scrapy runspider -a first_page=1 -a last_page=100 -o items.csv spider.py
+example: scrapy runspider -a first_page=1 -a last_page=100 -o items.csv spider.py
+
+(Optional): Mounting Google Drive in Google Colab
+
+https://colab.research.google.com/github/davidjohnnn/python_workshop/blob/master/code/D1-2_DatPrep/3_Mounting_Google_Drive_in_Google_Colab.ipynb
 
 
 ————————————————————————————
